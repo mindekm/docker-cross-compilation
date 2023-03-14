@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup>
+    <Version>1.0.0</Version>
+    <TargetFramework>net7.0</TargetFramework>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <LangVersion>preview</LangVersion>
+  </PropertyGroup>
+</Project>
